@@ -1,0 +1,14 @@
+C:\Users\axela\source\repos\PruebaLogica\bin\Debug\net6.0\PruebaLogica.exe
+C:\Users\axela\source\repos\PruebaLogica\bin\Debug\net6.0\PruebaLogica.deps.json
+C:\Users\axela\source\repos\PruebaLogica\bin\Debug\net6.0\PruebaLogica.runtimeconfig.json
+C:\Users\axela\source\repos\PruebaLogica\bin\Debug\net6.0\PruebaLogica.dll
+C:\Users\axela\source\repos\PruebaLogica\bin\Debug\net6.0\PruebaLogica.pdb
+C:\Users\axela\source\repos\PruebaLogica\obj\Debug\net6.0\PruebaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axela\source\repos\PruebaLogica\obj\Debug\net6.0\PruebaLogica.AssemblyInfoInputs.cache
+C:\Users\axela\source\repos\PruebaLogica\obj\Debug\net6.0\PruebaLogica.AssemblyInfo.cs
+C:\Users\axela\source\repos\PruebaLogica\obj\Debug\net6.0\PruebaLogica.csproj.CoreCompileInputs.cache
+C:\Users\axela\source\repos\PruebaLogica\obj\Debug\net6.0\PruebaLogica.dll
+C:\Users\axela\source\repos\PruebaLogica\obj\Debug\net6.0\refint\PruebaLogica.dll
+C:\Users\axela\source\repos\PruebaLogica\obj\Debug\net6.0\PruebaLogica.pdb
+C:\Users\axela\source\repos\PruebaLogica\obj\Debug\net6.0\PruebaLogica.genruntimeconfig.cache
+C:\Users\axela\source\repos\PruebaLogica\obj\Debug\net6.0\ref\PruebaLogica.dll

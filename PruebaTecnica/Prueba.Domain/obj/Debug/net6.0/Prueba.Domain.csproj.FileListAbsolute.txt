@@ -1,0 +1,14 @@
+C:\Users\axela\source\repos\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.csproj.AssemblyReference.cache
+C:\Users\axela\source\repos\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axela\source\repos\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.AssemblyInfoInputs.cache
+C:\Users\axela\source\repos\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.AssemblyInfo.cs
+C:\Users\axela\source\repos\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.csproj.CoreCompileInputs.cache
+C:\Users\axela\source\repos\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.deps.json
+C:\Users\axela\source\repos\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.runtimeconfig.json
+C:\Users\axela\source\repos\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.dll
+C:\Users\axela\source\repos\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.pdb
+C:\Users\axela\source\repos\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.dll
+C:\Users\axela\source\repos\Prueba.Domain\obj\Debug\net6.0\refint\Prueba.Domain.dll
+C:\Users\axela\source\repos\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.pdb
+C:\Users\axela\source\repos\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.genruntimeconfig.cache
+C:\Users\axela\source\repos\Prueba.Domain\obj\Debug\net6.0\ref\Prueba.Domain.dll
